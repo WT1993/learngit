@@ -3,4 +3,4 @@ Git is pay software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 create a new
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simples.
